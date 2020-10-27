@@ -16,3 +16,40 @@ a{
   text-decoration: none;
 }
 
+.btn{
+  color: #fff;
+  background-color: #333;
+  border: none;
+  padding: 15px;
+  font-size: 15px;
+  margin: 2px;
+}
+.btn:hover{
+  background-color: #444;
+  font-size: 16px;
+  padding: 15px;
+  transition: 200ms;
+  border: solid 2px #333;
+  margin: 2px;
+}
+
+.btnval{
+  color: #fff;
+  padding: 15px;
+  font-size: 15px;
+  margin :2px;
+  background-color: #444;
+  border: none;
+}
+
+.todoitem{
+  padding: 5px;
+  background-color: rgb(82, 75, 75);
+  margin-inline-start: 10px;
+  margin-inline-end: 10px;
+  font-size: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff;
+}
+
+
